@@ -1,1 +1,1 @@
-# admin-dashboard.index.html
+admin-dashboard.index.html → index.html
