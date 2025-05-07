@@ -1,1 +1,1 @@
-# dmin-dashboard
+# admin-dashboard.index.html
